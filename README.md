@@ -1,7 +1,7 @@
 <h3 align="center">📊 JinBaek | Data Scientist · End-to-End Analyst</h3>
 
 <p align="center">
-  통계 분석 · 바이오 빅데이터 · AI 모델링 · 데이터 기반 전략 및 솔루션 설계
+  통계 분석 · 바이오 빅데이터 · 통계 모델링 · 데이터 기반 전략 및 솔루션 설계
 </p>
 
 
