@@ -1,7 +1,7 @@
-<h3 align="center">📊 JinBaek | Data Scientist · End-to-End Analyst</h3>
+<h3 align="center">📊 JinBaek | Data Engineer & Analyst </h3>
 
 <p align="center">
-  대규모 데이터 활용 · 데이터 기반 문제 해결 전략 설계 · 통계 분석 및 모델링  
+  대규모 데이터 파이프라인 구축 · 데이터 기반 문제 해결 · 통계 분석 및 모델링  
 </p>
 
 
