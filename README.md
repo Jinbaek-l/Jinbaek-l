@@ -30,7 +30,7 @@
 **🧬 Domain**: Biology  **Type**: SCI-indexed Journal Paper  **Published**: 2023
 <br>**🛠️ Skills**: `R` `Bash` `Statistical Analysis` `Exploratory Data Analysis` `Data ETL pipeline` `Visualization`
 
-#### **(2) [데이터 내 변동성 차이 패턴 검출을 위한 시뮬레이션 및 R 기반 통합 분석 도구 개발](https://github.com/Jinbaek-l/Biology-Statistic-Paper)**  
+#### **(2) [데이터 내 유의미한 패턴 검출을 위한 시뮬레이션 기반 통합 분석 도구 개발](https://github.com/Jinbaek-l/Biology-Statistic-Paper)**  
 **🧬 Domain**: Biology  **Type**: Master's Thesis  **Published**: 2025  
 <br>**🛠️ Skills**: `R` `Data Simulation Pipeline` `Statistical Modeling` `Parallel Programming` `Data Preprocessing` `Visualization`
 
