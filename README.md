@@ -32,7 +32,7 @@
 
 #### **(2) [데이터 내 변동성 차이 패턴 검출을 위한 시뮬레이션 및 R 기반 통합 분석 도구 개발](https://github.com/Jinbaek-l/Biology-Statistic-Paper)**  
 **🧬 Domain**: Biology  **Type**: Master's Thesis  **Published**: 2025  
-<br>**🛠️ Skills**: `R` `Statistical Simulation` `Statistical Modeling` `Parallel Programming` `Data Preprocessing` `Visualization`
+<br>**🛠️ Skills**: `R` `Data Simulation pipeline` `Statistical Modeling` `Parallel Programming` `Data Preprocessing` `Visualization`
 
 ### 📫 Contact
 - Email: primestanul@korea.ac.kr
