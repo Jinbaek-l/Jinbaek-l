@@ -27,7 +27,7 @@
 
 ### 📌 Featured Projects
 
-#### **(1) [국제저널 논문(공동1저자)] [대규모 생물학 데이터에 대한 다변량 EDA 및 통계 분석 기반 품질 평가 지표 개발](https://github.com/Jinbaek-l/Biology-DataAnalysis-Paper)**  
+#### **(1) [국제저널 논문] [대규모 생물학 데이터에 대한 다변량 EDA 및 통계 분석 기반 품질 평가 지표 개발](https://github.com/Jinbaek-l/Biology-DataAnalysis-Paper)**  
 **🧬 Domain**: Biology  **Type**: SCI-indexed Journal Paper  **Published**: 2023
 <br>**🛠️ Skills**: `R` `Bash` `Statistical Analysis` `Exploratory Data Analysis` `Data ETL pipeline` `Visualization`
 
