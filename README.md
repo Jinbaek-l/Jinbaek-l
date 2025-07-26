@@ -1,18 +1,26 @@
-<h3 align="center">📊 JinBaek | Data Engineer & Analyst </h3>
+<h3 align="center">👨‍💻 JinBaek | Data Engineer & Analyst </h3>
 
 <p align="center">
   대규모 데이터 파이프라인 구축 · 데이터 기반 문제 해결 · 통계 분석 및 모델링  
 </p>
 
+### 🎓 Education
+- 컴퓨터정보학과 학사·석사 졸업
 
-### 👨‍💻 About Me
-- 🎓 컴퓨터정보학과 학사·석사 졸업 | **석사 학위 논문 1편**
-- 🔬 의·생명 데이터 분석 및 통계 모델링 관련 국제저널 논문 2편 | **공동1저자 1편, 공저자 1편** 
-- 🔍 공공데이터 활용 문제 해결 경진대회 2회 수상 | **고려대학교 산학교육센터(대상), 국민체육진흥공단(장려상)**
-- 🧾 **ADsP** (데이터분석준전문가) · **TEPS 330** (등급: 2)
-- 🛠️ 현재 **`Python` `AI & Deep learning` `Algorithm`** 공부 중...
+### 🔬 Publications
+- **`석사 학위 논문`** 데이터 내 패턴 검출을 위한 통계 분석 도구 개발  
+- **`국제저널, 공동 제1저자`** 대규모 의생명 데이터 EDA 및 통계 분석을 통한 지표 개발 
+- **`국제저널, 공저자`** 의생명 데이터의 품질 검증 및 개선 연구
 
----
+### 🏆 Competitions 
+- **`KUS Honors 아이디어톤` (대상, 고려대학교)** 모빌리티 공공데이터 활용 문제 해결  
+- **`체육종합 데이터 경진대회` (장려상, 국민체육진흥공단)** 공공데이터 기반 예측 서비스 개발
+
+### 📄 Certifications
+- **ADsP** (데이터분석준전문가) · **TEPS 330** (등급: 2)
+
+### 📊 Currently 
+- 선형대수 & 딥러닝 학습 및 실습 | Python 기반 코딩 테스트 대비 (백준, 프로그래머스)
 
 ### 🛠️ Tech Stack
 
@@ -27,11 +35,11 @@
 
 ### 📌 Featured Projects
 
-#### **(1) [국제저널 논문] [대규모 생물학 데이터에 대한 다변량 EDA 및 통계 분석 기반 품질 평가 지표 개발](https://github.com/Jinbaek-l/Biology-DataAnalysis-Paper)**  
+#### **(1) [국제저널 논문] [대규모 의·생명 데이터 EDA 및 통계 분석을 통한 지표 개발](https://github.com/Jinbaek-l/Biology-DataAnalysis-Paper)**  
 **🧬 Domain**: Biology  **Type**: SCI-indexed Journal Paper  **Published**: 2023
 <br>**🛠️ Skills**: `R` `Bash` `Statistical Analysis` `Exploratory Data Analysis` `Data ETL pipeline` `Visualization`
 
-#### **(2) [석사학위논문] [데이터 내 유의미한 패턴 검출을 위한 시뮬레이션 기반 통합 분석 도구 개발](https://github.com/Jinbaek-l/Biology-Statistic-Paper)**  
+#### **(2) [석사학위논문] [데이터 내 패턴 검출을 위한 통계 분석 도구 개발](https://github.com/Jinbaek-l/Biology-Statistic-Paper)**  
 **🧬 Domain**: Biology  **Type**: Master's Thesis  **Published**: 2025  
 <br>**🛠️ Skills**: `R` `Data Simulation Pipeline` `Statistical Modeling` `Parallel Programming` `Data Preprocessing` `Visualization`
 
