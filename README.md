@@ -19,9 +19,6 @@
 ### 📄 Certifications
 - **ADsP** (데이터분석준전문가) · **TEPS 330** (등급: 2)
 
-### 📊 Currently 
-- 선형대수 & 딥러닝 학습 및 실습 | Python 기반 코딩 테스트 대비 (백준, 프로그래머스)
-
 ### 🛠️ Tech Stack
 
 <p align="left">
