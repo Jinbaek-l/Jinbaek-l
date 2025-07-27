@@ -9,7 +9,7 @@
 
 ### 🔬 Publications
 - **`석사 학위 논문`** 데이터 내 패턴 검출을 위한 통계 분석 도구 개발  
-- **`국제저널, 공동 1저자`** 대규모 의생명 데이터 EDA 및 통계 분석을 통한 지표 개발 
+- **`국제저널, 공동 1저자`** 대규모 의생명 데이터 파이프라인 구축 및 통계 분석을 통한 지표 개발 
 - **`국제저널, 공저자`** 의생명 데이터 품질 검증 및 개선 연구
 
 ### 🏆 Competitions 
@@ -35,7 +35,7 @@
 
 ### 📌 Featured Projects
 
-#### **(1) [국제저널 논문] [대규모 의·생명 데이터 EDA 및 통계 분석을 통한 지표 개발](https://github.com/Jinbaek-l/Biology-DataAnalysis-Paper)**  
+#### **(1) [국제저널 논문] [대규모 의생명 데이터 파이프라인 구축 및 통계 분석을 통한 지표 개발](https://github.com/Jinbaek-l/Biology-DataAnalysis-Paper)**  
 **🧬 Domain**: Biology  **Type**: SCI-indexed Journal Paper  **Published**: 2023
 <br>**🛠️ Skills**: `R` `Bash` `Statistical Analysis` `Exploratory Data Analysis` `Data ETL pipeline` `Visualization`
 
