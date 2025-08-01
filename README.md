@@ -4,20 +4,10 @@
   대규모 데이터 파이프라인 구축 · 데이터 기반 문제 해결 · 통계 분석 및 모델링  
 </p>
 
-### 🎓 Education
-- 컴퓨터정보학과 학사·석사 졸업
-
-### 🔬 Publications
-- **`석사 학위 논문`** 데이터 내 패턴 검출을 위한 통계 분석 도구 개발  
-- **`국제저널 논문(공동 1저자)`** 대규모 의생명 데이터 파이프라인 구축 및 통계 분석을 통한 지표 개발 
-- **`국제저널 논문(공저자)`** 의생명 데이터 품질 검증 및 개선 연구
-
-### 🏆 Competitions 
-- **`KUS Honors 아이디어톤`** 모빌리티 공공데이터 활용 문제 해결 (대상, 고려대학교)
-- **`체육종합 데이터 활용 경진대회`** 체육종합 데이터 기반 예측 서비스 개발 (장려상, 국민체육진흥공단)
-
-### 📄 Certifications
-- **ADsP** (데이터분석준전문가) · **TEPS 330** (등급: 2)
+- 🎓 컴퓨터정보학과 학사·석사 졸업 | **석사 학위 논문 1편**
+- 🔬 의·생명 데이터 분석 및 통계 모델링 관련 국제저널 논문 2편 | **공동1저자 1편, 공저자 1편** 
+- 🔍 공공데이터 활용 문제 해결 경진대회 2회 수상 
+- 🛠️ 현재, 기술 역량 확장(Python·TensorFlow/PyTorch) 및 AI 프로젝트 기획·개발 중
 
 ### 🛠️ Tech Stack
 
@@ -26,6 +16,8 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/caret-276DC3?style=flat&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"/>
 </p>
 
