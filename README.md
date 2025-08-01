@@ -33,5 +33,5 @@
 <br>**🛠️ Skills**: `R` `Data Simulation Pipeline` `Statistical Modeling` `Parallel Programming` `Data Preprocessing` `Visualization`
 
 ### 📫 Contact
-- Email: primestanul@korea.ac.kr
+- Email: jinb.dsai@gmail.com
 
