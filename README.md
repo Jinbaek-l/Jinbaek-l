@@ -22,7 +22,7 @@
 </p>
 
 
-### 📌 Featured Projects
+### 📌 Projects
 
 #### **(1) [국제저널 논문] [대규모 의생명 데이터 파이프라인 구축 및 통계 분석을 통한 지표 개발](https://github.com/Jinbaek-l/Biology-DataAnalysis-Paper)**  
 **🧬 Domain**: Biology  **Type**: SCI-indexed Journal Paper  **Published**: 2023
