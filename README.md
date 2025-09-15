@@ -1,4 +1,4 @@
-<h3 align="center">👨‍💻 JinBaek | Data Scientist </h3>
+<!--<h3 align="center">👨‍💻 JinBaek | Data Scientist </h3>
 
 - 🎓 컴퓨터정보학과 학사·석사 졸업 
 - 💻 데이터 분석 소프트웨어 개발 및 알고리즘 설계 | **석사학위 논문**
@@ -18,3 +18,4 @@
 ### 📫 Contact
 - Email: jinb.dsai@gmail.com
 
+-->
